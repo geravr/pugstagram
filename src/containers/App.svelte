@@ -6,7 +6,7 @@ import { onMount } from "svelte";
     import Sidebar from '../components/Sidebar.svelte';
 
     let data = {};
-    const API = "https://us-central1-pugstagram-co.cloudfunctions.net/data"
+    const API = "https://my-json-server.typicode.com/geravr/pugstagram/db"
 
     onMount(async () => {
         const response = await fetch(API);
