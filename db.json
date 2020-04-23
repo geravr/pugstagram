@@ -6,7 +6,7 @@
     "posts": [
       {
         "username": "Elmo.pug",
-        "location": "Bogotá, Colombia",
+        "location": "Guadalajara, México",
         "avatar": "https://arepa.s3.amazonaws.com/elmo.jpg",
         "photo": "https://arepa.s3.amazonaws.com/elmo002.jpg",
         "like": false,
@@ -27,7 +27,7 @@
       },
       {
         "username": "Elmo.pug",
-        "location": "Bogotá, Colombia",
+        "location": "Guadalajara, México",
         "avatar": "https://arepa.s3.amazonaws.com/elmo.jpg",
         "photo": "https://arepa.s3.amazonaws.com/elmo001.jpeg",
         "like": false,
@@ -43,7 +43,7 @@
       },
       {
         "username": "Elmo.pug",
-        "location": "Bogotá, Colombia",
+        "location": "Guadalajara, México",
         "avatar": "https://arepa.s3.amazonaws.com/elmo.jpg",
         "photo": "https://arepa.s3.amazonaws.com/elmo003.jpg",
         "like": false,
@@ -55,7 +55,7 @@
       },
       {
         "username": "Elmo.pug",
-        "location": "Bogotá, Colombia",
+        "location": "Guadalajara, México",
         "avatar": "https://arepa.s3.amazonaws.com/elmo.jpg",
         "photo": "https://arepa.s3.amazonaws.com/elmo004.jpg",
         "like": false,
@@ -67,7 +67,7 @@
       },
       {
         "username": "Elmo.pug",
-        "location": "Bogotá, Colombia",
+        "location": "Guadalajara, México",
         "avatar": "https://arepa.s3.amazonaws.com/elmo.jpg",
         "photo": "https://arepa.s3.amazonaws.com/elmo005.jpg",
         "like": false,
@@ -79,7 +79,7 @@
       },
       {
         "username": "Elmo.pug",
-        "location": "Bogotá, Colombia",
+        "location": "Guadalajara, México",
         "avatar": "https://arepa.s3.amazonaws.com/elmo.jpg",
         "photo": "https://arepa.s3.amazonaws.com/elmo006.jpg",
         "like": false,
@@ -91,7 +91,7 @@
       },
       {
         "username": "Elmo.pug",
-        "location": "Bogotá, Colombia",
+        "location": "Guadalajara, México",
         "avatar": "https://arepa.s3.amazonaws.com/elmo.jpg",
         "photo": "https://arepa.s3.amazonaws.com/elmo007.png",
         "like": false,
@@ -103,7 +103,7 @@
       },
       {
         "username": "Elmo.pug",
-        "location": "Bogotá, Colombia",
+        "location": "Guadalajara, México",
         "avatar": "https://arepa.s3.amazonaws.com/elmo.jpg",
         "photo": "https://arepa.s3.amazonaws.com/elmo008.png",
         "like": false,
@@ -115,7 +115,7 @@
       },
       {
         "username": "Elmo.pug",
-        "location": "Bogotá, Colombia",
+        "location": "Guadalajara, México",
         "avatar": "https://arepa.s3.amazonaws.com/elmo.jpg",
         "photo": "https://arepa.s3.amazonaws.com/elmo009.png",
         "like": false,
