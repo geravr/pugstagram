@@ -6,7 +6,7 @@
 <div class="Profile">
     <div class="Profile-content">
         <div class="Profile-avatar">
-            <img src="https://geravr.github.io/image/Foto%20Perfil%20portafolio%20web.png" alt="" />
+            <img src="https://www.flaticon.es/svg/static/icons/svg/145/145849.svg" alt="avatar" />
         </div>
         <div class="Profile-info">
             <h2>{nickname}</h2>

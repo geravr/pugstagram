@@ -11,7 +11,7 @@
         <div class="Stories-items">
             <div class="Stories-item">
                 <div class="Stories-item-box">
-                    <img src="https://geravr.github.io/image/Foto%20Perfil%20portafolio%20web.png" alt="" />
+                    <img src="https://www.flaticon.es/svg/static/icons/svg/145/145849.svg" alt="avatar" />
                 </div>
                 <h2>
                     {nickname}
